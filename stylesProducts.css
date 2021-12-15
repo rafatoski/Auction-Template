@@ -4,3 +4,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.mid {
+    background: #ECEDF1
+}
+span.text-muted {
+    font-size: 12px;
+}
+small.text-muted {
+    font-size: 10px;
+}
+.text-muted {
+    --bs-text-opacity: 1;
+    color: #6c757d!important;
+}
+h5.mb-0 {
+    font-size: 1rem;
+}
